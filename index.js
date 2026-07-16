@@ -38,7 +38,7 @@ searchBar.addEventListener("input", (e) => {
     });
 
     generaCards(pokemonFiltrati);
-  }, 200); //200ms di attesa dopo l'ultimo taso premuto.
+  }, 200); //200ms di attesa dopo l'ultimo tasto premuto.
 });
 
 // Funzione che genera le card
